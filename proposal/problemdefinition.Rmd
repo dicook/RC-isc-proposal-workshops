@@ -10,4 +10,4 @@ It is important to cover:
  - [ ] Why it should be tackled
 -->
 
-Despite more than 20 years of existence, the CRAN archive contains less than 15% of packages maintained by a woman. This has been a persistently low percentage. 
+Despite more than 20 years of existence, the CRAN archive contains [less than 15% of packages maintained by a woman](https://github.com/forwards/presentations). This has been a [persistently low percentage](). 
