@@ -28,13 +28,30 @@ Depending on project type the detail section should include:
 
 ### Workshops for Women
 
- - Workshops for women will re-use existing material contributed by Hadley, based on Master R Developer workshops (second day only). This will be made available to members of Forwards taskforce and others from the R Community for the sole purpose of running workshops targeted at under-represented groups [must be free to participants? Tutors must be volunteers?]. Hadley maintains copyright and full ownership of the materials.
+ - Materials will build on existing material donated by Hadley Wickham, Jenny Bryan and Di Cook and will be used and extended under a creative commons license. 
+ - The focus is on packaging code, using github and submission to CRAN. 
+ - Workshops will be conducted in several locations world-wide, currently aiming for Melbourne, New Zealand, New York and Europe. 
+
+<!--
+ Workshops for women will re-use existing material contributed by Hadley, based on Master R Developer workshops (second day only). This will be made available to members of Forwards taskforce and others from the R Community for the sole purpose of running workshops targeted at under-represented groups [must be free to participants? Tutors must be volunteers?]. Hadley maintains copyright and full ownership of the materials.
  - Tutors agree to donate their time, but expenses are covered. As course material is already prepared, volunteer time is restricted to the workshop itself.
  - 3 workshops will be run, in NZ, US and EU, to tie in with R/statistical computing/statistics conferences that tutors already plan to attend. In this way no travel funding is required for tutors and the potential audience is maximised, with many attendees able to justify funding travel to both workshop and conference.
  - Therefore only expenses are additional night(s) accommodation of tutors and per diem for travel and subsistence; tea/coffee breaks and lunch for all participants. Additional funding is included to contribute to travel/accommodation expenses for people that need additional financial support.
+-->
 
 ### Workshops for Girls
 
- - Girl's workshop will be run on same principle, but new material needs to be developed for this, which will be developed by Di/Hadley/Jenny. Part of the funding will go to this. Afterwards material will be made available to members of Forwards taskforce and others from the R Community for the sole purpose of running similar outreach events [similar conditions as above].
- - It is assumed in this case, groups of girls will travel up for the day at low cost (e.g. coach travel) so can self-fund as a usual school trip.
+ - Materials will be developed for encouraging teenage girls to start coding in R.
+ - The focus will be on developing shiny apps, or web scraping, and making plots of data. 
+ - A selection of topics related to contemporary current affairs will be used, e.g. girls sports.
+ - Materials will build on existing material donated by Di Cook, based on working with Melbourne High School students on pedestrian sensor data, and will be used and extended under a creative commons license.  
 
+<!--
+ Girl's workshop will be run on same principle, but new material needs to be developed for this, which will be developed by Di/Hadley/Jenny. Part of the funding will go to this. Afterwards material will be made available to members of Forwards taskforce and others from the R Community for the sole purpose of running similar outreach events [similar conditions as above].
+ - It is assumed in this case, groups of girls will travel up for the day at low cost (e.g. coach travel) so can self-fund as a usual school trip.
+-->
+
+### Volunteers
+
+- The workshop presenters will donate their time and cover their costs to travel to the location.
+- Tutors will be recruited from local institutions to help with the hands-on coding. They will donate their time to assist.

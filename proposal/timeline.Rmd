@@ -19,8 +19,8 @@ Covering the actual delivery of the project this section should provide at least
 Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
 -->
 
-- Sep-Nov 2017 Trial workshops under the R-Ladies Melbourne umbrella
-- Dec 2017 Both workshops conducted before IASC 2017 in Auckland, NZ. IASC 2017 is honouring Ross Ihakas contributions and retirement. 
+- Sep-Nov 2017 Trial workshops under the R-Ladies Melbourne umbrella. Di will run these workshops with student volunteers from Monash University.
+- Dec 2017 Both workshops conducted before IASC 2017 in Auckland, NZ. IASC 2017 is honouring Ross Ihakas contributions and retirement. Di, Hadley and Jenny are planning on being at IASC and will travel a few days ahead to conduct the workshops.
 - NY ??
 - Europe ??
 
