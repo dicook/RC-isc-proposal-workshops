@@ -10,6 +10,7 @@ Covering the planning phase, this section should provide a relatively detailed p
  - [ ] Reporting framework
 -->
 
+Feb-Jul 2017 Materials development and feedback solicitation from the community
 
 ## Technical delivery
 <!--
@@ -17,6 +18,11 @@ Covering the actual delivery of the project this section should provide at least
 
 Including target dates is really important as you need to be committed and the ISC need to have a means of tracking delivery
 -->
+
+- Sep-Nov 2017 Trial workshops under the R-Ladies Melbourne umbrella
+- Dec 2017 Both workshops conducted before IASC 2017 in Auckland, NZ. IASC 2017 is honouring Ross Ihakas contributions and retirement. 
+- NY ??
+- Europe ??
 
 ## Other aspects
 <!--
@@ -28,3 +34,7 @@ Covering non-technical activities like on-going publicity, paper preparation, di
  - [ ] UseR!
  - [ ] ISC meetings
 -->
+
+- The workshops will be advertised through twitter, blog posts (such as R Bloggers), the IASC web site, and with universities and high schools. 
+- A useR! 2018 talk and an R Journal publication on the workshops is planned. 
+

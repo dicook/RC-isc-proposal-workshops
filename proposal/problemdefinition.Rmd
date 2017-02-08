@@ -10,4 +10,4 @@ It is important to cover:
  - [ ] Why it should be tackled
 -->
 
-Despite more than 20 years of existence, the CRAN archive contains [less than 15% of packages maintained by a woman](https://github.com/forwards/presentations). This has been a [persistently low percentage](). 
+Despite more than 20 years of existence, the CRAN archive has had a [persistently low percentage of female authors and package maintainers](http://www.pnas.org/content/112/48/14788.abstract). In recent scraping and analysis of package DESCRIPTION files, it is estimated that [less than 15% of packages are maintained by a woman](https://github.com/forwards/presentations). Steps have been taken to acknowledge female contributions in the R community, by inviting new members into the R Foundation, and ensuring that the invited speaker list at recent useR conferences includes women who have made an impact. The fundamental problem for building female participation in the community, though, seems to be in coding. 

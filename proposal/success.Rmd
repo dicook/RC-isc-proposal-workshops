@@ -8,15 +8,22 @@ Projects should have a definition of done that is measurable, and a thorough und
 What does success look like? 
 -->
 
+- Successful operation of workshops in Melbourne, Auckland, New York and Europe (location to be determined).
+- Workshop materials distributed for others to use on the forwards web site.
+
 ## Measuring success
 <!-- 
 How will we know when success is achieved, what markers can we use along the way 
 -->
-
+- The forwards diversity sub-committee is maintaining statistics on participation of women and under-represented groups in the R community. We will track these to examine the effect of the workshops in improving the numbers. 
+- A participant survey will be constructed before the first workshop to obtain feedback. A summary of this feedback will be published on the forwards web site.  
 ## Future work
 <!-- 
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
+
+- The workshop materials will be made freely available on the web, with a creative commons license. Others will be able to build on these and contribute back.
+- Sponsorship for future workshop may be forthcoming from local organisations and businesses. 
 
 ## Key risks
 <!-- 
@@ -28,3 +35,4 @@ What sort of things could come up that can delay or break the project?
  - [ ] Costs
 
 -->
+This is a low risk project. There is already a base of material to build on, from workshops delivered by Hadley Wickham and course material from Jenny Bryan and Di Cook used in University classes. There is little risk that the new materials would not be developed. We are expecting for some young women to travel to workshops, and there are always risks associated with travel. 
