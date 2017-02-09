@@ -19,11 +19,13 @@ Jenny Bryan, Di Cook, Heather Turner, Hadley Wickham (Ordinary Members of the R 
 Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
 -->
 
-- R-Ladies (Melbourne)
+- FORWARDS committee on teaching: Isabella Gollini, Joyce Robbins, Andrea Foulkes, Jonathon Godfrey
+- R-Ladies (various locations)
 - University of Auckland statistics department faculty: Marie Fitch, Steph Budgett, Ilze Ziedins
 
 <!-- 
 ## Consulted
 Who has been given the opportunity to provide feedback on the proposal? This should include any R Consortium & ISC members who the proposal has been discussed with.
 -->
+
 

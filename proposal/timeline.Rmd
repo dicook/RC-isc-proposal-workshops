@@ -10,7 +10,7 @@ Covering the planning phase, this section should provide a relatively detailed p
  - [ ] Reporting framework
 -->
 
-Feb-Jul 2017 Materials development and feedback solicitation from the community
+Mar-Jul 2017 Materials development and feedback solicitation from the community
 
 ## Technical delivery
 <!--
@@ -20,9 +20,9 @@ Including target dates is really important as you need to be committed and the I
 -->
 
 - Sep-Nov 2017 Trial workshops under the R-Ladies Melbourne umbrella. Di will run these workshops with student volunteers from Monash University.
-- Dec 2017 Both workshops conducted before IASC 2017 in Auckland, NZ. IASC 2017 is honouring Ross Ihakas contributions and retirement. Di, Hadley and Jenny are planning on being at IASC and will travel a few days ahead to conduct the workshops.
-- NY ??
-- Europe ??
+- Dec 2017 Both workshops conducted before IASC 2017 in Auckland, NZ. IASC 2017 is honouring Ross Ihaka's contributions and retirement. Di, Hadley and Jenny are planning on being at IASC and will travel a few days ahead to conduct the workshops.
+- 2018 Locations in USA to be determined, spearheaded by Jenny Bryan, Joyce Robbins and Andrea Foulkes
+- 2018 Locations in Europe to be determined, spearheaded by Hether Turner and Isabella Gollini
 
 ## Other aspects
 <!--
