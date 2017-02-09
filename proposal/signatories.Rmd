@@ -7,14 +7,14 @@ An optional section would be for R-Core signatories where changes to R are propo
 
 [R Foundation taskforce on women and other under-represented groups](http://forwards.github.io)
 
-## Project team
+### Project team
 <!-- 
 Who are the people responsible for actually delivering the project if the proposal gets accepted and are already signed up and rearing to go?
 -->
 
 Jenny Bryan, Di Cook, Heather Turner, Hadley Wickham (Ordinary Members of the R Foundation)
 
-## Contributors
+### Contributors
 <!-- 
 Who are the people who have actively helped with this proposal but won't necessarily be on the core project team later?
 -->
@@ -23,7 +23,7 @@ Who are the people who have actively helped with this proposal but won't necessa
 - R-Ladies (various locations)
 - University of Auckland statistics department faculty: Marie Fitch, Steph Budgett, Ilze Ziedins
 
-## Consulted
+### Consulted
 <!-- 
 Who has been given the opportunity to provide feedback on the proposal? This should include any R Consortium & ISC members who the proposal has been discussed with.
 -->

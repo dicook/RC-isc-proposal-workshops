@@ -3,7 +3,7 @@
 Projects should have a definition of done that is measurable, and a thorough understanding going in of what the risks are to delivery 
 -->
 
-## Definition of done
+### Definition of done
 <!-- 
 What does success look like? 
 -->
@@ -11,14 +11,14 @@ What does success look like?
 - Successful operation of workshops in Melbourne, Auckland, USA and Europe.
 - Workshop materials distributed for others to use on the Forwards web site. 
 
-## Measuring success
+### Measuring success
 <!-- 
 How will we know when success is achieved, what markers can we use along the way 
 -->
 - The Forwards diversity sub-committee is maintaining statistics on participation of women and under-represented groups in the R community. We will track these to examine the effect of the workshops in improving the numbers. 
 - A participant survey will be constructed before the first workshop to obtain feedback. A summary of this feedback will be published on the Forwards web site. 
 
-## Future work
+### Future work
 <!-- 
 How could this be extended / developed in the future by yourself and/or the community in general?
 -->
@@ -26,7 +26,7 @@ How could this be extended / developed in the future by yourself and/or the comm
 - The workshop materials will be made freely available on the web, with a creative commons license. Others will be able to build on these and contribute back. Metrics on downloads and usage of materials would be available.
 - Future workshops will become cheaper to hold. Sponsorship will be sought from larger local organisations and businesses. For example, Qantas or ANZ bank have programs that may be able to support the Australian workshops to bring participants from rural areas or fund tutors travel to remote locations to run workshops, with an illustration of the benefit provided by the initial series. 
 
-## Key risks
+### Key risks
 <!-- 
 What sort of things could come up that can delay or break the project?
 
