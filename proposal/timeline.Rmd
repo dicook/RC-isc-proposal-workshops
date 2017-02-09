@@ -44,5 +44,8 @@ The workshops will be advertised through
 - the Forwards blog is aggregated by R-Bloggers blog posts, 
 - and other sites like RWeekly, the IASC web site, anzstat mailing list, and with academic institutions, and high schools, directly. 
 
-A useR! 2018 talk and an R Journal publication on the workshops will discuss the process, and success, of the venture. 
+Following the workshops
+
+- A useR! 2018 talk and an 
+- R Journal publication on the workshops will discuss the process, and success, of the venture. 
 

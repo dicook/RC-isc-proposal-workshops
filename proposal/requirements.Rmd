@@ -14,6 +14,7 @@ Who needs to be involved, what's the proposed structure, what will it take to ge
 
 - We have commitments from Hadley, Jenny, Heather and Di to teach the workshops
 - We will recruit helpers for the labs locally, e.g. graduate and undergraduate students from Monash, who are actively involved with package development for the Melbourne workshops, and graduate students from the Statistics Department, University of Auckland for the NZ workshops. 
+- We are actively involved in larger organisations including R-Ladies, Women in Data Science, Women in Statistics, and the ASA Caucus for Women and we will engage these organisations to promote the workshops before and after the events. 
 
 ## Processes
 <!-- 
@@ -37,27 +38,45 @@ Are there tools or tech that don't exist that will be produced to facilitate the
 ## Funding
 <!-- 
 [TO DO] THE GUIDANCE IS PRETTY UNCLEAR, ESP IN LIGHT OF GABOR'S PROPOSAL VS AWARD SIZE
-
 -->
+
+### Example costs
 
 - Materials development - Undergraduate research assistant `$4000`: Di will employ a talented and R fluent student from Monash to help coordinate materials development, and pull data together to make interesting examples.
   
-
 - Melbourne 
-  - Girls workshop: This is a trial and we will advertise to high schools around Melbourne to sign up. The only cost will be catering for the day. We will find facilities that are easy to get to that can be used without charge. Catering `30@$40=$1200`
+  - Girls workshop: This is a trial and we will advertise to high schools around Melbourne to sign up. The primary cost will be catering for the day. We will find facilities that are easy to get to that can be used without charge. Catering `30@$40=$1200`
   - Women's workshop: This is a trial and we will coordinate with R Ladies and Data Science to advertise and provide facilities. The only cost will be catering for the day. Catering `30@$40=$1200`
 
 - New Zealand
   - Girls workshop: Funds are requested to support travel and accommodation for about 20 girls. These funds will be used as travel bursaries. The workshop will aim for about 40 participants, expecting that a substantial number will be local to Auckland. Bringing students from further afield is important for encouraging girls from low socio-economic backgrounds in NZ to participate. Costs for catering on the day will also be needed. Airfare `20@$300`, accommodation `20@$40`, catering `40@$40`. `Total=$8400`
-  - Women's workshop: Funds are requested to support travel and accommodation for about 20 career-young women. These funds will be used as travel bursaries. The workshop will aim for about 40 participants, expecting that a substantial number will be local to Auckland. Bringing students from further afield is important for encouraging girls from low socio-economic backgrounds in NZ to participate. Costs for catering on the day will also be needed. Airfare `20@$300`, accommodation `20@$40`, catering `40@$40`. `Total=$8400`
+  - Women's workshop: Funds are requested to support travel and accommodation for about 20 women. These funds will be used as travel bursaries. The workshop will aim for about 40 participants, expecting that a substantial number will be local to Auckland. Bringing students from further afield is important for encouraging girls from low socio-economic backgrounds in NZ to participate. Costs for catering on the day will also be needed. Airfare `20@$300`, accommodation `20@$40`, catering `40@$40`. `Total=$8400`
 
-USA and Europe: 
-  - Girls workshops: The only cost will be catering for the day. We will find facilities that are easy to get to that can be used without charge. Catering `4x40@$50=$8000`
-  - Womens workshop: Funds are requested to support travel and accommodation for about 20 career-young women. These funds will be used as travel bursaries. The workshop will aim for about 40 participants, expecting that a substantial number will be local to Auckland. Bringing students from further afield is important for encouraging girls from low socio-economic backgrounds in NZ to participate. Costs for catering on the day will also be needed. Airfare `2x20@$400`, accommodation `2x20@$50`, catering `2x40@$50`. `Total=$22000`
+- USA and Europe: 
+  - Girls workshops: The only cost will be catering for the day. We will find facilities that are easy to get to that can be used without charge. Catering `2x40@$50=$4000`
+  - Womens workshop: Funds are requested to support travel and accommodation for about 20 women. These funds will be used as travel bursaries. The workshop will aim for about 40 participants, expecting that a substantial number will be local to Auckland. Bringing students from further afield is important for encouraging girls from low socio-economic backgrounds in NZ to participate. Costs for catering on the day will also be needed. Airfare `2x20@$400`, accommodation `2x20@$50`, catering `2x40@$50`. `Total=$18000`
   
-TOTAL FUNDS REQUESTED: $53,200
+- It may also be necessary to support some travel of a tutor, in the US or Europe. 
+ 
+### Notes on pricing
 
-## Summary
+- In Australia and New Zealand costs are slightly lower to account for the exchange rate
+- Accommodation in University student dorms is planned
+- Airfares are average domestic fares
+- If local financial support is secured, excess funds would be used to extend the number of workshops conducted.
+
+### Funds requested
+
+TOTAL: `$50,000` (to fund materials development and 8 workshops)
+
+If this is too much to request, then there are several possibilities for achieving the goals with reduced funds:
+
+1. Women's workshops only, would reduce costs to `$35,000`
+2. Reduce number of scholarships to 10 for each workshop, would reduce costs to `$35,000`
+3. Charge fees to attend, `$20` for girls and `$50` for women's workshops. This would offset the catering costs for each workshop. This would reduce the costs to about `$40,000`.
+4. It may be possible to leverage other financial support using the ISC funding to reduce the costs to about `$25,000`. I believe that several organisations local to Melbourne, like Telstra, may be willing to commit additional funds, if asked.
+
 <!--
+## Summary
 A summary of the requirements that contextualises the costs
 -->
