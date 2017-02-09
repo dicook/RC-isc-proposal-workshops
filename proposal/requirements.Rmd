@@ -20,7 +20,7 @@ Who needs to be involved, what's the proposed structure, what will it take to ge
 What processes need to be put in place e.g. codes of conduct, regular ISC meetings, handover to the community at large?
 -->
 
-A code of conduct will be written and provide to the workshop instructors, tutor and participants. 
+A code of conduct will be written and provided to the workshop instructors, tutors and participants. 
 
 ## Tools & Tech
 <!--
@@ -40,32 +40,23 @@ Are there tools or tech that don't exist that will be produced to facilitate the
 
 -->
 
-- Materials development
-  - Undergraduate research assistant $5000
+- Materials development - Undergraduate research assistant `$4000`: Di will employ a talented and R fluent student from Monash to help coordinate materials development, and pull data together to make interesting examples.
   
-- NZ
-  - Girls workshop
-    - accommodation 
-    - travel 
-    - catering
-  - Womens workshop
-    - accommodation 
-    - travel
-    - catering
 
-Melbourne girls workshop
-  - Catering 20@100=2000
+- Melbourne 
+  - Girls workshop: This is a trial and we will advertise to high schools around Melbourne to sign up. The only cost will be catering for the day. We will find facilities that are easy to get to that can be used without charge. Catering `30@$40=$1200`
+  - Women's workshop: This is a trial and we will coordinate with R Ladies and Data Science to advertise and provide facilities. The only cost will be catering for the day. Catering `30@$40=$1200`
+
+- New Zealand
+  - Girls workshop: Funds are requested to support travel and accommodation for about 20 girls. These funds will be used as travel bursaries. The workshop will aim for about 40 participants, expecting that a substantial number will be local to Auckland. Bringing students from further afield is important for encouraging girls from low socio-economic backgrounds in NZ to participate. Costs for catering on the day will also be needed. Airfare `20@$300`, accommodation `20@$40`, catering `40@$40`. `Total=$8400`
+  - Women's workshop: Funds are requested to support travel and accommodation for about 20 career-young women. These funds will be used as travel bursaries. The workshop will aim for about 40 participants, expecting that a substantial number will be local to Auckland. Bringing students from further afield is important for encouraging girls from low socio-economic backgrounds in NZ to participate. Costs for catering on the day will also be needed. Airfare `20@$300`, accommodation `20@$40`, catering `40@$40`. `Total=$8400`
+
+USA and Europe: 
+  - Girls workshops: The only cost will be catering for the day. We will find facilities that are easy to get to that can be used without charge. Catering `4x40@$50=$8000`
+  - Womens workshop: Funds are requested to support travel and accommodation for about 20 career-young women. These funds will be used as travel bursaries. The workshop will aim for about 40 participants, expecting that a substantial number will be local to Auckland. Bringing students from further afield is important for encouraging girls from low socio-economic backgrounds in NZ to participate. Costs for catering on the day will also be needed. Airfare `2x20@$400`, accommodation `2x20@$50`, catering `2x40@$50`. `Total=$22000`
   
-USA womens workshop
-  - travel
-  - catering
-  - accommodation
-  
-Europe womens workshop
-  - travel
-  - catering
-  - accommodation
-  
+TOTAL FUNDS REQUESTED: $53,200
+
 ## Summary
 <!--
 A summary of the requirements that contextualises the costs
