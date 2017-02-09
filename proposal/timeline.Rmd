@@ -24,6 +24,9 @@ Including target dates is really important as you need to be committed and the I
 - 2018 Locations in USA to be determined, spearheaded by Jenny Bryan, Joyce Robbins and Andrea Foulkes
 - 2018 Locations in Europe to be determined, spearheaded by Hether Turner and Isabella Gollini
 
+The package workshops will be organised around suitable events, e.g. eRum, WSDS, to encourage participation over a wide area. For these we assume the same running costs as the NZ women's workshop. The girls workshops will be run in collaboration with R-Ladies in places with good travel links where there is a concentration of both volunteers and potential attendees, e.g. San Francisco, London. These will mostly run similarly to the Melbourne workshop, i.e. no
+travel and accommodation, just catering for the day. For New Zealand, though, we would like to offer a number of travel bursaries to bring girls from the South Island and more remote locations on the North Island. 
+
 ## Other aspects
 <!--
 Covering non-technical activities like on-going publicity, paper preparation, discussion groups etc. that might be required to facilitate successful delivery of the project.
@@ -35,6 +38,11 @@ Covering non-technical activities like on-going publicity, paper preparation, di
  - [ ] ISC meetings
 -->
 
-- The workshops will be advertised through twitter, blog posts (such as R Bloggers), the IASC web site, and with universities and high schools. 
-- A useR! 2018 talk and an R Journal publication on the workshops is planned. 
+The workshops will be advertised through 
+
+- Forwards and R-Ladies twitter 
+- the Forwards blog is aggregated by R-Bloggers blog posts, 
+- and other sites like RWeekly, the IASC web site, anzstat mailing list, and with academic institutions, and high schools, directly. 
+
+A useR! 2018 talk and an R Journal publication on the workshops will discuss the process, and success, of the venture. 
 
