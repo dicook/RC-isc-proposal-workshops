@@ -10,7 +10,7 @@ At a high-level address what your proposal is and how it will address the proble
 
 This proposal is for funding to support the development of coding skills for increasing the participation of women in the R community. There are two levels of action:
 
-1. Building the package development skills of career-young women in the research community, to encourage them to distribute their research as an R package.
+1. Building the package development skills of women in the research community, to encourage them to distribute their research as an R package.
 2. Developing an interest in coding among teenage girls. 
 
 Funding is sought to provide support to conduct workshops at these two levels. We will coordinate with R-Ladies organisations across the globe, and faculty at a variety of institutions. The funds will be used to support travel of participants from geographically dispersed regions on the country to ensure inclusion of socio-economically disadvantaged women. Funds are also sought to provide catering to ensure that the learning environment is comfortable for participants. The tutors will fund their own travel and we will work with local organisers to obtain facilities at no cost. 
@@ -29,7 +29,7 @@ Depending on project type the detail section should include:
 ### Workshops for Women
 
  - Materials will build on existing material donated by Hadley Wickham, Jenny Bryan and Di Cook and will be used and extended under a creative commons license. 
- - The focus is on packaging code, using github and submission to CRAN. 
+ - The focus is on packaging code, using GitHub and submission to CRAN. 
  - Workshops will be conducted in several locations world-wide, currently aiming for Australia (Melbourne), New Zealand (Auckland), USA and Europe. 
 
 <!--
@@ -42,7 +42,7 @@ Depending on project type the detail section should include:
 ### Workshops for Girls
 
  - Materials will be developed for encouraging teenage girls to start coding in R.
- - The focus will be on developing shiny apps, or web scraping, and making plots of data. 
+ - The focus will be on developing Shiny apps, web scraping, and making plots of data. 
  - A selection of topics related to contemporary current affairs will be used, e.g. girls sports.
  - Materials will build on existing material donated by Di Cook, based on working with Melbourne High School students on pedestrian sensor data, and will be used and extended under a creative commons license.  
 
