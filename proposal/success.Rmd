@@ -39,5 +39,5 @@ What sort of things could come up that can delay or break the project?
  - [ ] Costs
 
 -->
-This is a low risk project. There is already a base of material to build on, from workshops delivered by Hadley Wickham and course material from Jenny Bryan and Di Cook used in University classes. There is little risk that the new materials would not be developed. We are expecting for some participants to travel to workshops, and there are always risks associated with travel. It may be necessary for instructors and tutors to have police background checks in order to work with high school students, and this needs to be organised with the local committees.
+This is a low risk project. There is already a base of material to build on, from workshops delivered by Hadley Wickham and course material from Jenny Bryan and Di Cook used in University classes. There is little risk that the new materials would not be developed. We are expecting for some participants to travel to workshops, and there are always risks associated with travel. It may be necessary for instructors and tutors to have police background checks in order to work with high school students, and this will need to be organised with the local committees.
 
