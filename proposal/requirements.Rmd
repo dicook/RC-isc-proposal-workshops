@@ -12,7 +12,7 @@ An idea of what is required to make the project actually happen
 Who needs to be involved, what's the proposed structure, what will it take to get their involvement?
 -->
 
-- We have commitments from Hadley Wickham, Jenny Bryan, Heather Turner, and Di Cook to teach the workshops.
+- We have commitments from the proposal team members, and the Forwards teaching committee to develop materials and to teach the workshops.
 - We will recruit helpers for the labs locally, e.g. graduate and undergraduate students from Monash, who are actively involved with package development for the Melbourne workshops, and graduate students from the Statistics Department, University of Auckland for the NZ workshops. 
 - We are actively involved in larger organisations including R-Ladies, Women in Data Science, Women in Statistics, and the ASA Caucus for Women and we will engage these organisations to promote the workshops before and after the events. 
 
