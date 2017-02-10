@@ -44,8 +44,10 @@ The workshops will be advertised through
 - the Forwards blog is aggregated by R-Bloggers blog posts, 
 - and other sites like RWeekly, the IASC web site, anzstat mailing list, and with academic institutions, and high schools, directly. 
 
-Following the workshops
+During and following the workshops
 
-- A useR! 2018 talk and an 
-- R Journal publication on the workshops will discuss the process, and success, of the venture. 
+- Girls attending the workshops will be encouraged to write about their experiences for the R Consortium blog, publish their app to the RStudio server and give a talk at their high school
+- Women at the package development workshop will be encouraged to submit their package to CRAN, and to submit an article on the package to the R Journal.
+- The project team will talk about the project and discuss the impact based on metrics and feedback at international conferences like useR! 2018, or the Women in Statistics and Data Science 2018.
+- An R Journal publication on the workshops will discuss the process, and success, of the venture. 
 
