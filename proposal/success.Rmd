@@ -15,8 +15,11 @@ What does success look like?
 <!-- 
 How will we know when success is achieved, what markers can we use along the way 
 -->
-- The Forwards diversity sub-committee is maintaining statistics on participation of women and under-represented groups in the R community. We will track these to examine the effect of the workshops in improving the numbers. Of particular interest is the proportion of female package maintainers and authors. 
-- A participant survey will be constructed before the first workshop to obtain feedback. A summary of this feedback will be published on the Forwards web site. 
+- The Forwards diversity sub-committee is maintaining statistics on participation of women and under-represented groups in the R community. We will track these to examine the effect of the workshops on improving the numbers. Of particular interest is the proportion of female package maintainers and authors. 
+- A participant survey will be constructed before the first workshop to obtain feedback. A summary of this feedback will be published on the Forwards web site. Of particular interest is that a high proportion of participants would recommend attending the workshop to their friends, and colleagues. 
+- Additional workshops, using the materials developed, are offered by new groups, such as R-Ladies Hobart, Buenos Aires, Tbilisi, ... would be hugely encouraging. 
+- R packages and R Journal articles submitted by attendees, which we might be able to track by encouraging notes to be added in the github wiki. 
+
 
 ### Future work
 <!-- 
