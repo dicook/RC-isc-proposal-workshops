@@ -7,4 +7,3 @@ We are seeking funding to build material and run R workshops for girls and women
 
 Preview the rendered html via rawgit [HERE](https://rawgit.com/dicook/RC-isc-proposal-workshops/master/proposal.html)
 
-I am editing here
